@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//asandan.github.io/course-directory/static/css/main.cce71042.css",
+    "main.js": "/https//asandan.github.io/course-directory/static/js/main.6267570c.js",
+    "index.html": "/https//asandan.github.io/course-directory/index.html",
+    "main.cce71042.css.map": "/https//asandan.github.io/course-directory/static/css/main.cce71042.css.map",
+    "main.6267570c.js.map": "/https//asandan.github.io/course-directory/static/js/main.6267570c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce71042.css",
+    "static/js/main.6267570c.js"
+  ]
+}
